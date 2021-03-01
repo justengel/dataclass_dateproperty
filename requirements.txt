@@ -1,0 +1,1 @@
+dataclass_property>=1.2.0

@@ -1,0 +1,6 @@
+name = 'dataclass_property'
+version = '1.0.0'
+description = 'Weekdays and datetime properties for the dataclass_property library.'
+url = 'https://github.com/justengel/dataclass_dateproperty'
+author = 'Justin Engel'
+author_email = 'jtengel08@gmail.com'
