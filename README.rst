@@ -1,6 +1,6 @@
-==================
+======================
 dataclass_dateproperty
-==================
+======================
 
 Weekdays and datetime properties for the dataclass_property library.
 
